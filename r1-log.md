@@ -1,10 +1,10 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [entonibaba0720 - Agi]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [May 23, Wednesday, 2018].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Today I learn to draw with pure CSS. It was great. I learn a lot of about positioning. (https://www.github.com/entonibaba0720/drawing-in-css-koala)
 
 ### R1D2
