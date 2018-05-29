@@ -25,3 +25,23 @@
 **Today's Progress**: I met the CSS Variables
 
 **Thoughts:** It was amazing. All I knew about CSS, ... "You know nothing, John Snow"!
+
+### Day 5: May 27, 2018 
+
+**Today's Progress**: Still working on my portfolio.
+
+**Thoughts:** It's very hard. I have to learn much about css positioning. I like the work with CSS variables.
+
+### Day 6: May 28, 2018 
+
+**Today's Progress**: My porftolio is almost ready. 
+
+**Thoughts:** Today 
+I won a battle against Bootsrap. My weapon was !important. I used a lot of times. 
+Next time I won't use it  :D
+
+### Day 7: May 29, 2018 
+
+**Today's Progress**: Today I started to learning Backend with using NodeJS. 
+
+**Thoughts:** I enrolled some moths ago an Udemy Course - Web Developer Bootcamp with Colt Steele. It's a very long course, and I now started the backend section. It seems very interesting. 

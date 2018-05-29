@@ -19,3 +19,19 @@ Thinking about the layout, colors, fonts. It will be very difficult, but I can m
 
 I met the CSS Variables
 It was amazing. All I knew about CSS, ... "You know nothing, John Snow"!
+
+### R1D5
+
+Still working on my portfolio.
+It's very hard. I have to learn much about css positioning. I like the work with CSS variables.
+
+### R1D6
+
+My porftolio is almost ready. 
+I won a battle against Bootsrap. My weapon was !important. I used a lot of times. 
+Next time I won't use it  :D
+
+### R1D7
+
+Today I started to learning Backend with using NodeJS. 
+I enrolled some moths ago an Udemy Course - Web Developer Bootcamp with Colt Steele. It's a very long course, and I now started the backend section. It seems very interesting. 
